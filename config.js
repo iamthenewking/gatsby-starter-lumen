@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://priceless-stonebraker-0ae844.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by Jeff Doe',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
